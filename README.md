@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c01e2e6e-509e-41b3-ad0d-17533af015cd)**Seed-Spacing Robot**
+**Seed-Spacing Robot**
 
 OS AND SOFTWARE USED:
 
